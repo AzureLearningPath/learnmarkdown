@@ -12,3 +12,16 @@ _Italics_ " \_italics\_ "
 
 ~~Strike through~~ "\~\~Strike through\~\~"
 
+### Unordered Lists
+* Item1
+* Item2
+* Item2
+  * Item4
+  * Item5
+
+### Ordered Lists
+1. Item1
+2. Item2
+3. Item3
+   * Item 3a
+   * Item 3b
