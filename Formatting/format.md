@@ -28,3 +28,23 @@ _Italics_ " \_italics\_ "
 
 ### BlockQuotes
 >This content is under Blcokquote!
+>this is another blockquote!
+
+### BACKSLASH ESCAPES
+
+\\ backslash
+\` backtick
+\* asterisk
+\_ underscore
+\{\} curly braces
+\[\] square brackets
+\(\) parentheses
+\# hash mark
+\+ plus sign
+\- minus sign (hyphen)
+\. dot
+\! exclamation mark
+
+#### Comments in Markdown are
+<!-- ****** -->
+<\!\-\-     \-\->
