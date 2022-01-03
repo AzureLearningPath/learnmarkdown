@@ -17,6 +17,12 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
+- script: pwd
+    echo $pwd
+
+- script: ls
+  
+
 - script: |
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
@@ -25,3 +31,5 @@ steps:
 - script: terraform -v
     echo printing terraform version 
   
+- script: pwd
+    echo $pwd
